@@ -74,3 +74,16 @@ INSERT INTO employee_projects (employee_id, project_id, assigned_date) VALUES
 (5, 5, '2022-08-10'),
 (2, 3, '2023-07-01'),
 (6, 1, '2021-04-01');
+
+
+
+
+
+
+
+
+
+
+
+
+
